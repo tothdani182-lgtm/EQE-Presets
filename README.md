@@ -1,24 +1,60 @@
-EarPods PHONK EQ — Lua Preset for iOS EQE
-A custom‑tuned EQE (.lua) preset designed specifically for Apple EarPods and optimized for phonk, trap, and bass‑heavy genres.
-This preset enhances low‑end performance, cleans up vocals, and reduces harsh highs — all tailored to the natural frequency response of EarPods.
+A custom‑tuned universal EQ preset pack optimized for phonk, trap, bass‑heavy and modern pop genres.
+This pack includes multiple preset formats to ensure compatibility with any EQ application that supports file import.
+
+The tuning enhances low‑end impact, cleans up midrange harshness, and adds clarity and air — designed to work on any headphones, earbuds, speakers or audio devices.
 
 ⭐ Features
-Heavy bass boost to compensate for EarPods’ open‑back design
+Strong low‑end enhancement for bass‑focused genres
 
-Clear and present vocals in the 1–4 kHz range
+Clean and present vocals in the 1–4 kHz range
 
-Reduced harshness in the upper treble
+Reduced harshness in upper mids and treble
 
-Optimized for phonk / trap
+Modern, airy high‑end for phonk and pop
 
-Fully compatible with iOS EQE (.lua format)
+Optimized for phonk / trap / bass‑boosted music
 
-Easy to import and use
+Multiple preset formats included (.lua,.txt)
 
-🎧 Target Hardware
-Apple EarPods (Lightning / 3.5mm)
+Compatible with any EQ app that supports preset import
 
-iOS devices running EQE
+
+
+🎧 Target Devices
+Works with any audio device, including:
+
+Headphones
+
+Earbuds
+
+Wired / wireless headsets
+
+Bluetooth speakers
+
+PC speakers
+
+Studio monitors
+
+
+
+🖥️ Compatible Software
+Works with any equalizer that supports importing custom presets:
+
+EQE (iOS)
+
+Wavelet (Android)
+
+Poweramp EQ (Android)
+
+Neutron Player (iOS/Android)
+
+Peace EQ / Equalizer APO (Windows)
+
+FxSound (Windows)
+
+Boom 3D (Windows/macOS)
+
+Foobar2000 (Windows/macOS)
 
 🎵 Best For
 Drift phonk
@@ -30,3 +66,7 @@ Trap
 Bass‑boosted remixes
 
 Dark phonk
+
+Modern pop
+
+EDM / electronic
